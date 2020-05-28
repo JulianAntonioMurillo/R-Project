@@ -5,7 +5,7 @@
 # Final Project MGSC 310
 
 # Source Files:
-Rough Code, 
+Source Code 
 
 
 # References: Valeria Park, Jonathan Hersh
