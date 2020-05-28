@@ -1,13 +1,14 @@
 # Julian Murillo
 # ID: 2301366
 # Email: jumurillo@chapman.edu
-# CPSC 392-02
+# MGsC 310 
 # Final Project MGSC 310
 
 # Source Files:
+Rough Code, 
 
 
 # References: Valeria Park, Jonathan Hersh
 
 
-# Run in RStudio
+# Run in RStudio/RConsole
